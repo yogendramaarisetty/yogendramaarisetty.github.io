@@ -31,6 +31,10 @@
         font-family: 'Lato', sans-serif;
         font-weight: 700;
     }
+    
+    a.cblue {
+        color: #086ebc;
+    }
 </style>
 
 <body>
@@ -51,6 +55,21 @@
             auto2top: true,
             maxLevel: 3,
             subMaxLevel: 3,
+            plugins: [
+                function(hook) {
+                    var footer = [
+                        '<hr/>',
+                        '<footer>',
+                        '<span><a class="cblue" href="https://github.com/yogendramaarisetty">yogendramaarisetty</a> &copy;2020.</span>',
+                        '<span> Published with <a class="cblue" href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+                        '</footer>'
+                    ].join('');
+
+                    hook.afterEach(function(html) {
+                        return html + footer;
+                    });
+                }
+            ],
             pagination: {
                 previousText: 'Previous',
                 nextText: 'Next',

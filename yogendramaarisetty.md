@@ -8,7 +8,7 @@
 **Hello programmers!**
 
 I am yogendra maarisetty from India  :india: , Hyderabad :100:. I am a **FullStack web developer** working at [Planful](https://www.planful.com). 
-I would always love to share knowledge. So I have gathered Inofrmation and useful articles from popular resources like [GeeksForGeeks](https://www.geeksforgeeks.org/), [Youtube](https://www.youtube.com), [HackerEarth](https://www.hackerearth.com) etc....
+I would always love to share knowledge. So I have gathered Information and useful articles from popular resources like [GeeksForGeeks](https://www.geeksforgeeks.org/), [Youtube](https://www.youtube.com), [HackerEarth](https://www.hackerearth.com) etc....
 
 **SKILL STACK**
 - :fab fa-python:  Python3 
