@@ -1,29 +1,22 @@
 
 
 
-### If you are preparing for FAANG, you are in RIGHT PLACE. Welcome Geek.
+<a href="/"><h1 class="logo" style="background: linear-gradient(120deg,#3d8fd1, #b400ff);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-weight: 800;font-size:80px">Dev CodeBook<sup style="font-weight:400; font-size:24px">Beta</sup></h1></a>
 
+## If you are Beginner or Intermediate Programmer, You are in right place!
 
-* ## What's FAANG?
+[Devcodebook](/) is collection of hand-picked resources for young programmers of all levels. You can find all kinds of resources to learn Programming, Programming languages, Data Structures, Algorithms ,Web development, Machine learning, and several popular technologies.
 
-These are leading tech giants in Industry.
+You might have many questions like.
 
-![FAANG](faang.png)
+- What is programming?
+- Why programming ?
+- How/Where to start ?
+- How to choose a career ?
+- How to prepare for an Interview ?
 
 # Let's Start with core fundamentals!
 
 > [Object oriented Programming in JAVA](oops/) 
 
 > [Data Structures & Algorithms](datastructures/)
-
-# Practice Coding in below platforms. Try out!
-
-
->  [<span class="fab fa-hackerrank" style="margin:0px 10px"></span> Hackerrank](https://www.hackerrank.com)
-
->  [<span><img class="icon" src="https://camo.githubusercontent.com/9deb5eba7d752db1cbc4409bb5d8de38bceb38ea/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67"/></span>Hackerearth](https://www.hackerearth.com/practice/)
-
->  [<span><img class="icon" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png"/></span>LeetCode](https://leetcode.com/problemset/all/)
-
->  [<span><img class="icon" src="freecodecamp.png"/></span>FreeCodeCamp](https://www.freecodecamp.org/)
-

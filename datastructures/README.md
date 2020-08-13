@@ -14,6 +14,7 @@ We have two types of data structures:
 
 **Non-linear data structures**: Elements of non-linear data structures are stores and accessed in non-linear order. Examples of non-linear data structure are: Tree and Graph
 
+## video tutorial
 <iframe width="530" height="355" src="https://www.youtube.com/embed/RBSGKlAvoiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Classification of Data Structure with Diagram
