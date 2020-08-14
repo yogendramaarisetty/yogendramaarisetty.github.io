@@ -1,2 +1,2 @@
-- **Python 3**
-- * [Intro](languages/python/)
+- **<span class="fab fa-python" style="margin:0px 10px"></span> Python 3**
+- * [<span class="fab fa-python" style="margin:0px 10px"></span>    Intro](languages/python/)
